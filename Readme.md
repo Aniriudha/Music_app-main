@@ -50,7 +50,7 @@ Welcome to the Music App! This application allows you to browse, play, and organ
 Feel free to reach out for questions or collaboration:
 
 - GitHub: [Deba2608](https://github.com/Deba2608)
-- Email: deb260082002@gmail.com
+- Email: kumarsasadhar0@gmail.com
 
 ---
 
